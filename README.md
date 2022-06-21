@@ -11,8 +11,7 @@
 [<img src="/tela-protifólio.gif" alt="imagem-portifólio">]
 
 
-<a target="_blank" href="https://github.com/agostinhomarcia"> [<img src="github.png">
-  ]
+  <a target="_blank" href="https://github.com/agostinhomarcia"> Github
    </a>
 
 <a target="_blank" href="https://www.linkedin.com/in/marcia-agostinho/">Linkedin</a>
